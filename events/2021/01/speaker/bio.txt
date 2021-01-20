@@ -1,0 +1,35 @@
+세션 1:
+제목: Seasons of Serverless 이벤트 참여 후기 - 애저 서버리스 서비스를 활용한 음식 레시피 구현
+소개: Seasons of Serverless 이벤트에서 한국의 떡국 레시피를 다양한 애저 서버리스 서비스를 이용해 구현해 보는 프로젝트에 참여했는데요, 이 과정에서 새롭게 배웠던 것들을 소개해 보고자 합니다.
+
+세션 2:
+제목: JAMStack과 서버리스 겉핥기
+내용: JAMStack 이라는 용어를 들어보셨나요? 이미 여러분들께서 알게 모르게 쓰고 있던 것들을 한데 모아서 부르는 말인데요, 서버리스 서비스와 찰떡궁합을 자랑합니다. 이번 세션에서는 JAMStack에 대해 간단하게 훑어보고 각 클라우드 벤더사에서 이를 지원하는 서버리스 서비스를 알아보도록 하겠습니다.
+발표자:
+
+세션 1:
+이름: 노아론
+소속: 한국외국어대학교, MLSA
+소개: 백엔드 개발을 좋아합니다. 학생 개발자에서 주니어 개발자가 되기 위해 도약하고 있습니다.
+소셜미디어:
+* 깃헙: https://github.com/roharon
+* 링크드인: https://www.linkedin.com/in/aaronroh
+프로필: https://raw.githubusercontent.com/krazure/gab2020kr/master/speakers/rohaaron.jpg
+
+이름 : 김유진
+소속 : 서경대학교, MLSA
+소개: 웹/앱, 웹해킹, 블록체인에 관심이 많습니다. 최근 서버리스를 공부하고 있습니다.
+소셜미디어:
+* 깃헙: https://github.com/u0jin
+* 링크드인: https://www.linkedin.com/in/youjin-kim-a73471191/
+
+이름 : 김홍민
+소속 : Feelaware, MLSA
+소개: Feelaware에서 산업기능요원으로 일하고 있습니다. VMware 및 Azure 관련 3rd party 어플리케이션을 개발하고 있습니다.
+소셜미디어:
+* 깃헙: https://github.com/hongman
+
+
+세션 2:
+이름: 유저스틴
+소속: Microsoft
